@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://dabi-jay.github.io/MyPortfolio/)
+- Solution URL: [Solution URL]( https://dabi-jay.github.io/F-E-M-Qr-challenge/)
+- Live Site URL: [Live site URL](https://dabi-jay.github.io/MyPortfolio/)
 
 ### Built with
 
